@@ -53,7 +53,7 @@ I'm Sheikh Redoan, a passionate web designer with a deep interest in creating be
 <p style="font-size: 18px; color: #fff; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Thank you for your understanding.</p>
             <p style="font-size: 18px; color: #fff; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Sincerely,</p>
 
-<h1>Sheikh Redoan</h1>
+<h1 style="color:#ef5224;">Sheikh Redoan</h1>
 
             
 <p style="font-size: 15px; font-weight: 700;
