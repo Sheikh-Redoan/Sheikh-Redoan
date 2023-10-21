@@ -53,13 +53,11 @@ I'm Sheikh Redoan, a passionate web designer with a deep interest in creating be
 <p style="font-size: 18px; color: #fff; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Thank you for your understanding.</p>
             <p style="font-size: 18px; color: #fff; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Sincerely,</p>
 
-
+df;g,.l;dfghl;dfml;gmkl;dfgh
 
 <h1>SSrabonher@gmail.com</h1>
 
-<h1 style="color:#ef5224;">Sheikh Redoan</h1>
-
-
+<h1 style="color:#ef5224;">Sheikh Redoan</h1
 
 
 
