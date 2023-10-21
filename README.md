@@ -53,6 +53,8 @@ I'm Sheikh Redoan, a passionate web designer with a deep interest in creating be
 <p style="font-size: 18px; color: #fff; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Thank you for your understanding.</p>
             <p style="font-size: 18px; color: #fff; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Sincerely,</p>
 
+<h1>Sheikh Redoan</h1>
+
             
 <p style="font-size: 15px; font-weight: 700;
             color: #24c6ef; margin: 5px 0;">Sheikh Redoan Ahamed</p>
@@ -108,7 +110,7 @@ I'm Sheikh Redoan, a passionate web designer with a deep interest in creating be
                 
                 
                   <!-- input number -->
- <p style="margin: 0; padding: 0; line-height: .8; text-align: center"><a style="font-family:     'Roboto', sans-serif;font-size: 12px; color: #fff; text-decoration: none; " href="tel:01741713286"><img style="width: 12px; height: auto; margin:0 2px;" src="https://i.postimg.cc/Dwdcyh5c/whats-app-icon.png" alt="">01741713286 </a></p>
+ <p style="margin: 0; padding: 0; line-height: .8; text-align: center"><a style="font-family:     'Roboto', sans-serif;font-size: 12px; color: #000; text-decoration: none; " href="tel:01741713286"><img style="width: 12px; height: auto; margin:0 2px;" src="https://i.postimg.cc/Dwdcyh5c/whats-app-icon.png" alt="">01741713286 </a></p>
                 <!-- input number -->
 
 
