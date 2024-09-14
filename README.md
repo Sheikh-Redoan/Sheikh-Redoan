@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://gif-for-git-ss.netlify.app/Comp%201.gif"  />
+  <img width="100%" height="200" src="https://gif-for-git-ss.netlify.app/Comp%201.gif"  />
 </div>
 
 ###
