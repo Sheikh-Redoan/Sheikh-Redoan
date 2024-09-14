@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://gif-for-git-ss.netlify.app/Comp%201.gif"  />
+  <img height="200" src="https://github.com/user-attachments/assets/56470a29-f693-4d91-a3e9-523b592e8655"  />
 </div>
 ![Comp-1(1)-1726313329720](https://github.com/user-attachments/assets/56470a29-f693-4d91-a3e9-523b592e8655)
 ###
