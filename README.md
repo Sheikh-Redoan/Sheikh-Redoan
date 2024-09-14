@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/rs05bkKG/Comp-1.gif"  />
+  <img src="https://i.ibb.co.com/YtCfHvx/Comp-1.gif" alt="Comp-1" border="0">
 </div>
 
 ###
