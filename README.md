@@ -3,7 +3,7 @@
 <div align="center">
   <img height="auto" src="https://github.com/user-attachments/assets/56470a29-f693-4d91-a3e9-523b592e8655"  />
 </div>
-###
+
 
 <div align="center">
   <a href="www.linkedin.com/in/sheikh-redoan/" target="_blank">
@@ -75,7 +75,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sheikh-Redoan/Sheikh-Redoan/output/snake.svg" alt="Snake animation" />
 
 ###
 
