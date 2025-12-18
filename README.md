@@ -1,110 +1,97 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="250" alt="Mr Robot Vibe" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Hello%2C+World!+I'm+Sheikh+Redoan;Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
 </div>
 
-<h1 align="center">I'm Sheikh Redoan</h1>
-<h3 align="center">🚀 Front End Developer | MERN Stack Enthusiast | Creative Thinker</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sheikh-redoan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="https://github.com/Sheikh-Redoan">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" />
+  </a>
+   <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
 </div>
 
 <br>
 
-<table>
-  <tr>
-    <td width="60%" valign="center">
-      <h2>👩‍💻 About Me</h2>
-      <p>
-        Hi there! I'm a passionate developer from <b>Bangladesh</b> 🇧🇩. I currently work as a <b>Front End Developer</b> at Fashion Premium, where I craft intuitive user interfaces.
-      </p>
-      <ul>
-        <li>🔭 I’m currently working on <b>Professional Front-End Projects</b>.</li>
-        <li>🌱 I’m currently learning <b>MERN Stack Development</b> to become a full-stack wizard.</li>
-        <li>⚽ In my free time, you can find me playing <b>Football</b>.</li>
-        <li>⚡ Fun fact: I love turning complex designs into pixel-perfect code!</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Coding Vibe">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h2 align="center">📊 My GitHub Contributions in 3D</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sheikh-Redoan/Sheikh-Redoan/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%" />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="90%" alt="Coding Vibe">
+      </td>
+      <td width="50%" valign="middle">
+        <h3>⚡ System Status: Online</h3>
+        <p>
+          > <b>Origin:</b> Bangladesh 🇧🇩<br>
+          > <b>Role:</b> Front End Developer @ Fashion Premium<br>
+          > <b>Mission:</b> Crafting pixel-perfect UIs & scalable backends.<br>
+          > <b>Current Quest:</b> Mastering the MERN Stack.<br>
+          > <b>Side Quest:</b> Football Striker ⚽
+        </p>
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<h2 align="left">🛠 Language and Tools</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
-  <img width="10" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img width="10" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="sketch" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-</div>
-
-<br>
-
-<h2 align="left">🔥 My Stats</h2>
+<h2 align="center">🔮 Contribution Holograph</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sheikh-Redoan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikh-Redoan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="180" alt="languages graph" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheikh-Redoan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/Sheikh-Redoan/Sheikh-Redoan/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="40" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50">
+  <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">
+</div>
+
+<h2 align="center">🛠️ The Arsenal</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Core</b></td>
+      <td align="center"><b>Frameworks</b></td>
+      <td align="center"><b>Design & Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js,html,css,cpp,nodejs" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,express,mongo" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,ps,ai,xd,figma" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<h2 align="center">📈 Performance Metrics</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sheikh-Redoan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikh-Redoan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="180" alt="languages graph" />
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sheikh-Redoan&theme=tokyonight&hide_border=true&background=00000000" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
   <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> <p>Visitor Count</p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Sheikh-Redoan.Sheikh-Redoan&" />
 </div>
